@@ -1,0 +1,5 @@
+1. START
+2. Ask for the radius of the given circular garden path. Store it for Num1
+3. radius = Num1 x 3.1416
+4. Display result
+5. End

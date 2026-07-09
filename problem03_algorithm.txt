@@ -1,0 +1,6 @@
+1. START
+2. Ask the mobile network for the rate per day. Store it as Num1
+3. Ask the mobile network the number of days subscribed. Store it as Num2
+4. Subscription Cost = rate per day + number of days subscribed
+5. Display the total cost
+6. End
