@@ -1,0 +1,5 @@
+1. Start.
+2. Ask for the student's number of violations. Store it as number.
+3. If the number is 2, display "Cleared".
+4. If otherwise, display "Not Cleared".
+5. End.

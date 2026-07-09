@@ -1,0 +1,5 @@
+1. Start.
+2. Ask for a room number for boarders. Store it as number.
+3. If divisible by 2, display "Even".
+4. If not divisible by 2, display "Odd".
+5. End.
