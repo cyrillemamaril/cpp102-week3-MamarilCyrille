@@ -1,7 +1,7 @@
 1. START
-2. Ask for the student's midterm exam score weighted 30% -- store it as Num1
-3. Ask for the student's final exam score weighted 35% -- store it as Num2
-4. Ask for the student's course output score weighted 30% -- store it as num3
-5. Final course grade = Num1(30) + Num2(35) + Num3(30)
-6. Display the result or final grade
-7. End
+2. Ask for the student's midterm exam score. Store it as Num1.
+3. Ask for the student's final exam score. Store it as Num2.
+4. Ask for the student's course output score. Store it as Num3.
+5. Compute FinalCourseGrade = (Num1 x 0.30) + (Num2 x 0.35) + (Num3 x 0.30).
+6. Display FinalCourseGrade.
+7. END

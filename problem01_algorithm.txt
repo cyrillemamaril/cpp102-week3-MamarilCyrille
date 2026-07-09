@@ -1,7 +1,7 @@
 
 1. START
-2. Ask the number of boxes. Store it as Num1
-3. Ask the number of items per box. Store it as Num2
-4. Packed boxes count = num1 = num2
-5. Display 
-6. End 
+2. Ask the number of boxes. Store it as Num1.
+3. Ask the number of items per box. Store it as Num2.
+4. Compute PackedBoxesCount = Num1 x um2.
+5. Display PackedBoxesCount.
+6. END

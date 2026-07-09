@@ -1,6 +1,10 @@
-1. Start.
-2. Ask for the price change of the stock market app. Store it as number.
-3. If >0, display "Gain".
-4. If <0, display "Loss".
-5. If 0, display "Unchanged"
-6. End
+1. START
+2. Ask for the price change of the stock market app. Store it as Number.
+3. IF Number > 0 THEN
+4.     Display "Gain".
+5. ELSE IF Number < 0 THEN
+6.     Display "Loss".
+7. ELSE
+8.     Display "Unchanged".
+9. END IF
+10. END

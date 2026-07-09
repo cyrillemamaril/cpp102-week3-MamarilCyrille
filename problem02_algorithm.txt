@@ -1,5 +1,5 @@
 1. START
-2. Ask for the radius of the given circular garden path. Store it for Num1
-3. radius = Num1 x 3.1416
-4. Display result
-5. End
+2. Ask for the radius of the circular garden path. Store it as Num1.
+3. Compute Circumference = 2 x 3.1416 x Num1.
+4. Display Circumference.
+5. END

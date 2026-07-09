@@ -1,0 +1,6 @@
+START
+INPUT Radius of the given circular garden path
+INPUT 3.1416pi
+PROCESS Number of items per box x 3.1416pi
+DISPLAY result
+END
