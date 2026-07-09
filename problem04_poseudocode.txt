@@ -1,0 +1,7 @@
+START
+INPUT Game1Points
+INPUT Game2Points
+INPUT Game3Points
+ThreePointTotal ← Game1Points + Game2Points + Game3Points
+DISPLAY ThreePointTotal
+END

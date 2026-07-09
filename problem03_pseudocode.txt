@@ -1,0 +1,10 @@
+BEGIN
+
+INPUT RatePerDay
+INPUT NumberOfDays
+
+SubscriptionCost ← RatePerDay x NumberOfDays
+
+OUTPUT SubscriptionCost
+
+END

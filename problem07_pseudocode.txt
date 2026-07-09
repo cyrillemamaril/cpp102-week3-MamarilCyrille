@@ -1,0 +1,7 @@
+START
+INPUT MidtermExamScore
+INPUT FinalExamScore
+INPUT CourseOutputScore
+FinalCourseGrade ← (MidtermExamScore x 0.30) + (FinalExamScore x 0.35) + (CourseOutputScore x 0.30)
+DISPLAY FinalCourseGrade
+END

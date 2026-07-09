@@ -1,6 +1,6 @@
 START
-INPUT Number of Boxes
-INPUT Number of items per box
-PROCESS = Number of Boxes x Number of items per box
-DISPLAY Total Number of Items
+INPUT NumberOfBoxes
+INPUT NumberOfItemsPerBox
+TotalNumberOfItems ← NumberOfBoxes x NumberOfItemsPerBox
+DISPLAY TotalNumberOfItems
 END

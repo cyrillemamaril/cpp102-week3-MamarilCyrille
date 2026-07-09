@@ -1,0 +1,10 @@
+START
+INPUT PriceChange
+IF PriceChange > 0 THEN
+    DISPLAY "Gain"
+ELSE IF PriceChange < 0 THEN
+    DISPLAY "Loss"
+ELSE
+    DISPLAY "Unchanged"
+END IF
+END

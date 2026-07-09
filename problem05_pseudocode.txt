@@ -1,0 +1,10 @@
+START
+INPUT Price1
+INPUT Quantity1
+INPUT Price2
+INPUT Quantity2
+INPUT Price3
+INPUT Quantity3
+TotalCost ← (Price1 x Quantity1) + (Price2 x Quantity2) + (Price3 x Quantity3)
+DISPLAY TotalCost
+END
