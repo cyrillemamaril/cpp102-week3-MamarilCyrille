@@ -1,6 +1,7 @@
 1. START
-2. Ask the mobile network rate per day. Store it as Num1.
-3. Ask the number of days subscribed. Store it as Num2.
-4. Compute SubscriptionCost = Num1 * Num2.
-5. Display SubscriptionCost.
-6. END
+2. Ask the player for the points from Game 1. Store it as Num1.
+3. Ask the player for the points from Game 2. Store it as Num2.
+4. Ask the player for the points from Game 3. Store it as Num3.
+5. Compute ThreePointTotal = Num1 + Num2 + Num3.
+6. Display ThreePointTotal.
+7. END

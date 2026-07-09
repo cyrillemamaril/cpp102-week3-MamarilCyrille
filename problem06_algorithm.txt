@@ -1,7 +1,7 @@
-1. Start
-2. Ask the freelance programmer the hourly rate. Store it as Num1
-3. Ask the freelance programmer the number of hours worked. Store it as Num2
-4. Ask the freelance programmer the project bonus. Store it as Num3
-5. Total earnings = Hourly rate x Number of hours worked x project bonus
-6. Display the computed total earnings
-7. End
+1. START
+2. Ask the freelance programmer for the hourly rate. Store it as Num1.
+3. Ask the freelance programmer for the number of hours worked. Store it as Num2.
+4. Ask the freelance programmer for the project bonus. Store it as Num3.
+5. Compute TotalEarnings = (Num1 x Num2) + Num3.
+6. Display TotalEarnings.
+7. END
